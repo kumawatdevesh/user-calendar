@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Details
+
+This project uses react and redux to create a basic user calander which shows all the schedule in a calander.
+
+User can see all their activities by clicking 'Details' using modal and then can 'View All' and go to particular month to see their activities easily.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -66,3 +72,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
